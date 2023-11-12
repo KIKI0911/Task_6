@@ -19,12 +19,28 @@
   
 > ![スクリーンショット 2023-11-11 午後2 18 44](https://github.com/KIKI0911/Task_6/assets/148507850/61ea7eb3-da1f-4a9b-97c8-03645766c232)
 
-## Terminal
-- prefix, suffix, contains
+- Terminal
+1. startsWith
+2. endsWith
+3. contains
+> ![スクリーンショット 2023-11-12 午後2 19 41](https://github.com/KIKI0911/Task_6/assets/148507850/ea55e6df-f28a-4f69-8e32-081478d379bc)
+
+- Postman
+1. startsWith
+> ![スクリーンショット 2023-11-12 午後2 22 35](https://github.com/KIKI0911/Task_6/assets/148507850/e42f6255-9406-4d77-b6e7-8b39cbc8aa2e)
+
+2. endsWith
+> ![スクリーンショット 2023-11-12 午後2 23 01](https://github.com/KIKI0911/Task_6/assets/148507850/6492eca6-34f8-4de6-b9b8-2ba25f989cc1)
+
+3. contains
+> ![スクリーンショット 2023-11-12 午後2 23 26](https://github.com/KIKI0911/Task_6/assets/148507850/2353fa75-81a5-4d5c-86fa-2055b2e24613)
+
+## prefix, suffix, contains
+- Terminal
 ![スクリーンショット 2023-11-12 午後1 42 50](https://github.com/KIKI0911/Task_6/assets/148507850/96294eca-8cdd-465a-9791-27ba60d841bb)
 
 
-## Postman
+- Postman
 1. prefix
 ![スクリーンショット 2023-11-12 午後1 35 32](https://github.com/KIKI0911/Task_6/assets/148507850/62510bd0-e412-4c7b-93eb-c67dc13a87a9)
 
