@@ -19,6 +19,20 @@
   
 > ![スクリーンショット 2023-11-11 午後2 18 44](https://github.com/KIKI0911/Task_6/assets/148507850/61ea7eb3-da1f-4a9b-97c8-03645766c232)
 
+## Terminal
+- startsWith, endsWith, contains
+![スクリーンショット 2023-11-12 午後1 00 27](https://github.com/KIKI0911/Task_6/assets/148507850/246bbea4-9250-4ce5-96ee-aa2f2218f636)
+
+## Postman
+1. startsWith
+![スクリーンショット 2023-11-12 午後12 51 22](https://github.com/KIKI0911/Task_6/assets/148507850/83c2b2f8-c9b8-4c7e-be98-d9c0d38112a2)
+
+2. endsWith
+![スクリーンショット 2023-11-12 午後12 52 12](https://github.com/KIKI0911/Task_6/assets/148507850/1abb8f1d-ab38-43c5-9b32-73a003730e0f)
+
+3. contains
+![スクリーンショット 2023-11-12 午後12 52 33](https://github.com/KIKI0911/Task_6/assets/148507850/18ba454e-1b27-42ec-a294-7f916739119e)
+
 # 1と２の実装
 - NameController
   
