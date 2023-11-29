@@ -6,7 +6,8 @@ public class NameSearchRequest {
     private String startsWith;
     private String endsWith;
     private String contains;
-@ConstructorProperties({"prefix","suffix","contains"})
+
+    @ConstructorProperties({"prefix", "suffix", "contains"})
     public NameSearchRequest(String startsWith, String endsWith, String contains) {
         this.startsWith = startsWith;
         this.endsWith = endsWith;
