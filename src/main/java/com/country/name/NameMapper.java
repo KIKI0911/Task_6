@@ -12,4 +12,7 @@ public interface NameMapper {
 
     @Select("SELECT * FROM countries WHERE name LIKE CONCAT(#{prefix}, '%') AND name LIKE CONCAT('%', #{suffix}) AND name LIKE CONCAT('%', #{contains},'%')")
     List<Countries> findByNameStartingWith(String prefix, String suffix, String contains);
+
+    @Select("SELECT * FROM countries WHERE name LIKE CONCAT(#{startsWith}, '%') AND name LIKE CONCAT('%', #{endsWith}) AND name LIKE CONCAT('%', #{contains},'%')")
+    List<Countries> findNameStartingWith(String startsWith, String endsWith, String contains);
 }
